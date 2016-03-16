@@ -1,2 +1,2 @@
-# gh-pages
-Blog
+# GitHub Pages Blog
+http://moscarda.github.io/blog/
